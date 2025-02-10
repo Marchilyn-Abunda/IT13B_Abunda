@@ -8,6 +8,10 @@ public class arithmetic_operators {
     public static int addition( int x, int y){
         return x+y;
     }
+    
+     public static int submission( int x, int y){
+        return x-y;
+    }
    
     
     public static void main(String[] args) {
